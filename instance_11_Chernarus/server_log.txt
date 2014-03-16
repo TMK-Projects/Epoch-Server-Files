@@ -1,0 +1,103 @@
+14:36:05 BattlEye Server: Initialized (v1.185)
+14:36:05 Host identity created.
+14:36:44 S.Pelkey uses modified data file
+14:36:44 BattlEye Server: Player #0 S.Pelkey (192.168.0.2:2316) connected
+14:36:44 Player S.Pelkey connecting.
+14:36:44 Mission DayZ Epoch Chernarus read from directory.
+14:36:48 Player S.Pelkey connected (id=87931974).
+14:36:48 BattlEye Server: IMPORTANT: Server admins now have to convert their BE filter files to a new regex-compatible format and put "//new" into the files' first line. Details: http://forums.bistudio.com/showthread.php?167504-Regular-Expression-%28Regex%29-Support-for-BE-Filters
+14:36:49 BattlEye Server: Player #0 S.Pelkey - GUID: c2ed5233902319824896c5652f0281ac (unverified)
+14:36:49 BattlEye Server: Verified GUID (c2ed5233902319824896c5652f0281ac) of player #0 S.Pelkey
+14:38:15 Roles assigned.
+14:38:15 Reading mission ...
+14:38:42 Mission read.
+14:39:46 Game started.
+14:46:55 Player S.Pelkey disconnected.
+14:46:55 BattlEye Server: Player #0 S.Pelkey disconnected
+15:42:37 BattlEye Server: Initialized (v1.185)
+15:42:37 Host identity created.
+15:45:32 S.Pelkey uses modified data file
+15:45:32 BattlEye Server: Player #0 S.Pelkey (192.168.0.2:2316) connected
+15:45:32 Player S.Pelkey connecting.
+15:45:32 Mission DayZ Epoch Chernarus read from directory.
+15:45:35 Player S.Pelkey connected (id=87931974).
+15:45:36 BattlEye Server: Player #0 S.Pelkey - GUID: c2ed5233902319824896c5652f0281ac (unverified)
+15:45:36 BattlEye Server: Verified GUID (c2ed5233902319824896c5652f0281ac) of player #0 S.Pelkey
+15:45:36 BattlEye Server: IMPORTANT: Server admins now have to convert their BE filter files to a new regex-compatible format and put "//new" into the files' first line. Details: http://forums.bistudio.com/showthread.php?167504-Regular-Expression-%28Regex%29-Support-for-BE-Filters
+15:47:03 Roles assigned.
+15:47:03 Reading mission ...
+15:47:25 Mission read.
+15:49:48 Game started.
+15:58:08 !!Darts!! uses modified data file
+15:58:08 BattlEye Server: Player #1 !!Darts!! (89.237.29.178:2304) connected
+15:58:08 Player !!Darts!! connecting.
+15:58:10 Player !!Darts!! connected (id=13693449).
+15:58:10 BattlEye Server: Player #1 !!Darts!! - GUID: 39a6e1566e6ad8eb929eb964c9bb8c6b (unverified)
+15:58:10 Player !!Darts!! kicked off by BattlEye: Invalid GUID
+15:58:10 Player !!Darts!! disconnected.
+15:58:33 Admin S.Pelkey logged in.
+16:45:36 BattlEye Server: IMPORTANT: Server admins now have to convert their BE filter files to a new regex-compatible format and put "//new" into the files' first line. Details: http://forums.bistudio.com/showthread.php?167504-Regular-Expression-%28Regex%29-Support-for-BE-Filters
+17:45:36 BattlEye Server: IMPORTANT: Server admins now have to convert their BE filter files to a new regex-compatible format and put "//new" into the files' first line. Details: http://forums.bistudio.com/showthread.php?167504-Regular-Expression-%28Regex%29-Support-for-BE-Filters
+18:45:36 BattlEye Server: IMPORTANT: Server admins now have to convert their BE filter files to a new regex-compatible format and put "//new" into the files' first line. Details: http://forums.bistudio.com/showthread.php?167504-Regular-Expression-%28Regex%29-Support-for-BE-Filters
+19:45:37 BattlEye Server: IMPORTANT: Server admins now have to convert their BE filter files to a new regex-compatible format and put "//new" into the files' first line. Details: http://forums.bistudio.com/showthread.php?167504-Regular-Expression-%28Regex%29-Support-for-BE-Filters
+20:45:37 BattlEye Server: IMPORTANT: Server admins now have to convert their BE filter files to a new regex-compatible format and put "//new" into the files' first line. Details: http://forums.bistudio.com/showthread.php?167504-Regular-Expression-%28Regex%29-Support-for-BE-Filters
+21:02:44 BattlEye Server: Could not connect to BE Master
+21:02:44 BattlEye Server: Update attempt failed
+21:45:37 BattlEye Server: IMPORTANT: Server admins now have to convert their BE filter files to a new regex-compatible format and put "//new" into the files' first line. Details: http://forums.bistudio.com/showthread.php?167504-Regular-Expression-%28Regex%29-Support-for-BE-Filters
+22:17:22 BattlEye Server: Could not connect to BE Master
+22:17:22 BattlEye Server: Update attempt failed
+22:19:18 BattlEye Server: Could not connect to BE Master
+22:19:18 BattlEye Server: Update attempt failed
+22:21:15 BattlEye Server: Could not connect to BE Master
+22:21:15 BattlEye Server: Update attempt failed
+22:23:11 BattlEye Server: Could not connect to BE Master
+22:23:11 BattlEye Server: Update attempt failed
+22:25:08 BattlEye Server: Could not connect to BE Master
+22:25:08 BattlEye Server: Update attempt failed
+22:45:37 BattlEye Server: IMPORTANT: Server admins now have to convert their BE filter files to a new regex-compatible format and put "//new" into the files' first line. Details: http://forums.bistudio.com/showthread.php?167504-Regular-Expression-%28Regex%29-Support-for-BE-Filters
+23:32:37 nick uses modified data file
+23:32:37 BattlEye Server: Player #1 nick (46.181.211.144:2304) connected
+23:32:37 Player nick connecting.
+23:32:40 Player nick connected (id=9258052).
+23:32:40 BattlEye Server: Player #1 nick - GUID: b51ad4847d6d167415cb0b78962ce5e9 (unverified)
+23:32:40 Player nick disconnected.
+23:32:40 BattlEye Server: Player #1 nick disconnected
+23:33:50 BattlEye Server: Could not connect to BE Master
+23:33:50 BattlEye Server: Update attempt failed
+23:45:38 BattlEye Server: IMPORTANT: Server admins now have to convert their BE filter files to a new regex-compatible format and put "//new" into the files' first line. Details: http://forums.bistudio.com/showthread.php?167504-Regular-Expression-%28Regex%29-Support-for-BE-Filters
+ 0:45:38 BattlEye Server: IMPORTANT: Server admins now have to convert their BE filter files to a new regex-compatible format and put "//new" into the files' first line. Details: http://forums.bistudio.com/showthread.php?167504-Regular-Expression-%28Regex%29-Support-for-BE-Filters
+ 1:46:24 BattlEye Server: IMPORTANT: Server admins now have to convert their BE filter files to a new regex-compatible format and put "//new" into the files' first line. Details: http://forums.bistudio.com/showthread.php?167504-Regular-Expression-%28Regex%29-Support-for-BE-Filters
+ 2:46:24 BattlEye Server: IMPORTANT: Server admins now have to convert their BE filter files to a new regex-compatible format and put "//new" into the files' first line. Details: http://forums.bistudio.com/showthread.php?167504-Regular-Expression-%28Regex%29-Support-for-BE-Filters
+ 2:56:32 PLAYER 1 uses modified data file
+ 2:56:32 BattlEye Server: Player #1 PLAYER 1 (123.139.37.182:34565) connected
+ 2:56:32 Player PLAYER 1 connecting.
+ 2:56:34 Player PLAYER 1 connected (id=238416902).
+ 2:56:34 BattlEye Server: Player #1 PLAYER 1 - GUID: 7a4231c1825f05b3d88a66ff400fd5b1 (unverified)
+ 2:56:34 Player PLAYER 1 disconnected.
+ 2:56:34 BattlEye Server: Player #1 PLAYER 1 disconnected
+ 5:02:16 BattlEye Server: Initialized (v1.185)
+ 5:02:16 Host identity created.
+ 5:02:49 S.Pelkey uses modified data file
+ 5:02:49 BattlEye Server: Player #0 S.Pelkey (192.168.0.2:2316) connected
+ 5:02:49 Player S.Pelkey connecting.
+ 5:02:50 Mission DayZ Epoch Chernarus read from directory.
+ 5:02:53 Player S.Pelkey connected (id=87931974).
+ 5:02:53 BattlEye Server: IMPORTANT: Server admins now have to convert their BE filter files to a new regex-compatible format and put "//new" into the files' first line. Details: http://forums.bistudio.com/showthread.php?167504-Regular-Expression-%28Regex%29-Support-for-BE-Filters
+ 5:02:54 BattlEye Server: Player #0 S.Pelkey - GUID: c2ed5233902319824896c5652f0281ac (unverified)
+ 5:02:54 BattlEye Server: Verified GUID (c2ed5233902319824896c5652f0281ac) of player #0 S.Pelkey
+ 5:04:20 Roles assigned.
+ 5:04:20 Reading mission ...
+ 5:04:48 Mission read.
+ 5:06:05 Game started.
+ 5:08:14 BattlEye Server: Could not connect to BE Master
+ 5:08:14 BattlEye Server: Update attempt failed
+ 5:10:30 BattlEye Server: Could not connect to BE Master
+ 5:10:30 BattlEye Server: Update attempt failed
+ 5:12:46 BattlEye Server: Could not connect to BE Master
+ 5:12:46 BattlEye Server: Update attempt failed
+ 5:15:02 BattlEye Server: Could not connect to BE Master
+ 5:15:02 BattlEye Server: Update attempt failed
+ 5:19:17 BattlEye Server: Could not connect to BE Master
+ 5:19:17 BattlEye Server: Update attempt failed
+ 5:26:54 Player S.Pelkey disconnected.
+ 5:26:54 BattlEye Server: Player #0 S.Pelkey disconnected
